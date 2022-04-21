@@ -9,6 +9,7 @@ public class calculator {
         double number2 = input.nextDouble();
         double result = number1 + number2;
         System.out.println(result);
+        //2nd version
     }
 }
 
